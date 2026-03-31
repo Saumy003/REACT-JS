@@ -55,7 +55,7 @@ react-js/
 │── README.md
 ⚙️ Installation & Setup
 Clone the repository:
-git clone https://github.com/your-username/react-js.git
+git clone https://github.com/Saumy003/react-js.git
 Navigate to the project folder:
 cd react-js
 Install dependencies:
@@ -92,7 +92,7 @@ If you find this repository helpful, consider giving it a ⭐!
 📞 Contact
 
 👤 Your Name
-🔗 GitHub: https://github.com/saumy003
+🔗 GitHub: https://github.com/Saumy003
 
 🔥 Final Note
 
